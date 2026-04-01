@@ -21,7 +21,6 @@ Este repositorio contiene la soluciones a las **Prácticas** de la asignatura **
 | **Campus** | Víctor Levi Sasso |
 | **Asignatura** | Desarrollo de Software VII |
 | **Instructor** | Ing. Irina Fong |
-| **Fecha Límite** | 26 de marzo de 2026 |
 | **Semestre** | I Semestre 2026 |
 
 ---
