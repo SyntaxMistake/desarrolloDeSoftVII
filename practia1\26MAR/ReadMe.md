@@ -45,7 +45,6 @@ Se implementan 5 ejercicios en PHP que demuestran:
 | `practica3.php` | Orden de precedencia |
 | `practica4.php` | Bucle for con tamaños de fuente |
 | `practica5.php` | Arreglos asociativos |
-| `screenshots/` | Capturas de ejecución |
 
 ---
 ##Tecnologías Utilizadas
