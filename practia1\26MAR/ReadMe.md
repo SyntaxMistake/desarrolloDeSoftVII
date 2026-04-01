@@ -37,15 +37,13 @@ Se implementan 5 ejercicios en PHP que demuestran:
 
 ## Estructura del Repositorio
 practica-php/
-│
-├── README.md # Documentación del proyecto
-├── hoja_presentacion.pdf # Hoja de presentación oficial
-│
-├── practica1.php # Variables y tipos de datos
-├── practica2.php # Operadores aritméticos
-├── practica3.php # Orden de precedencia
-├── practica4.php # Bucle for con tamaños de fuente
-└── practica5.php # Arreglos asociativos
+├── README.md
+├── hoja_presentacion.pdf
+├── practica1.php
+├── practica2.php
+├── practica3.php
+├── practica4.php
+└── practica5.php
 
 ---
 ##Tecnologías Utilizadas
