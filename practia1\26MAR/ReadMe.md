@@ -30,7 +30,7 @@ Se implementan 5 ejercicios en PHP que demuestran:
 | **Campus** | Víctor Levi Sasso |
 | **Asignatura** | Desarrollo de Software VII |
 | **Instructor** | Ing. Irina Fong |
-| **Fecha Límite** | 26 de marzo de 2026 |
+| **Fecha Límite** | 1 de abril de 2026 |
 | **Semestre** | I Semestre 2026 |
 
 ---
