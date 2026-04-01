@@ -34,7 +34,7 @@ Este repositorio contiene la soluciones a las **Prácticas** de la asignatura **
 | `practica2\31MAR` | Problemas resultos de práctica 2 |
 
 ---
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 Tecnología    Uso
 PHP 7.4+    Lógica de programación del servidor
 HTML5    Estructura de las páginas web
@@ -42,7 +42,7 @@ CSS3    Estilos (tamaños de fuente en práctica 4)
 Git/GitHub    Control de versiones y entrega
 
 ---
-##Referencias
+## Referencias
 https://www.php.net/docs.php
 https://www.php.net/manual/es/language.control-structures.php
 https://www.w3schools.com/php/
