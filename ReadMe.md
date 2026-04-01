@@ -35,11 +35,12 @@ Este repositorio contiene la soluciones a las **Prácticas** de la asignatura **
 
 ---
 ## Tecnologías Utilizadas
-Tecnología  |   Uso
-PHP 7.4+    |   Lógica de programación del servidor
-HTML5       |   Estructura de las páginas web
-CSS3        |   Estilos (tamaños de fuente en práctica 4)
-Git/GitHub  |   Control de versiones y entrega
+|   Tecnología  |   Uso    |
+|---------------|----------|
+|   PHP 7.4+    |   Lógica de programación del servidor |
+|   HTML5       |   Estructura de las páginas web   |
+|   CSS3        |   Estilos (tamaños de fuente en práctica 4)   |
+|   Git/GitHub  |   Control de versiones y entrega  |
 
 ---
 ## Referencias
