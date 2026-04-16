@@ -13,9 +13,13 @@
 </html>
 <?php
 $nombre = $_POST['nombre'];
-echo "El nombre es: ".$nombre."<br>";
+if(is_numeric($nombre)){
+    echo "El nombre no puede ser un número <br>";
+}else{
+echo "El nombre es: ".ucfirst($nombre)."<br>";
 $edad = $_POST['edad'];
 if (isset($edad) and $edad >=18){
     echo "Usted puede votar en las próximas elecciones 2028";
-}else echo "Usted no es mayor de edad";
+}else echo "Usted no es mayor de edad";}
+
 ?>
