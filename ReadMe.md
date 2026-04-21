@@ -14,35 +14,43 @@ Este repositorio contiene la soluciones a las **Prácticas** de la asignatura **
 
 ## Información Académica
 
-| Campo | Detalle |
-|-------|---------|
+| Campo           | Detalle                           |
+| --------------- | --------------------------------- |
 | **Universidad** | Universidad Tecnológica de Panamá |
-| **Facultad** | Facultad de Ingeniería Eléctrica |
-| **Campus** | Víctor Levi Sasso |
-| **Asignatura** | Desarrollo de Software VII |
-| **Instructor** | Ing. Irina Fong |
-| **Semestre** | I Semestre 2026 |
+| **Facultad**    | Facultad de Ingeniería Eléctrica  |
+| **Campus**      | Víctor Levi Sasso                 |
+| **Asignatura**  | Desarrollo de Software VII        |
+| **Instructor**  | Ing. Irina Fong                   |
+| **Semestre**    | I Semestre 2026                   |
 
 ---
 
 ## Estructura del Repositorio
-| Archivo/Carpeta | Descripción |
-|-----------------|-------------|
-| `README.md` | Documentación del proyecto |
-| `practia1\26MAR` | Problemas resultos de práctica 1 |
-| `practica2\31MAR` | Problemas resultos de práctica 2 |
+
+| Archivo/Carpeta   | Descripción                                     |
+| ----------------- | ----------------------------------------------- |
+| `README.md`       | Documentación del proyecto                      |
+| `practia1\26MAR`  | Problemas resultos de práctica 1                |
+| `practica2\31MAR` | Problemas resultos de práctica 2                |
+| `laboratorio1`    | Problemas resultos de laboratorio 1             |
+| `repoLaravel`     | Este es el ejemplo de Laravel. El laboratorio 2 |
+| `crudLab2`        | Este es el laboratio3                           |
 
 ---
+
 ## Tecnologías Utilizadas
-|   Tecnología  |   Uso    |
-|---------------|----------|
-|   PHP 7.4+    |   Lógica de programación del servidor |
-|   HTML5       |   Estructura de las páginas web   |
-|   CSS3        |   Estilos (tamaños de fuente en práctica 4)   |
-|   Git/GitHub  |   Control de versiones y entrega  |
+
+| Tecnología | Uso                                       |
+| ---------- | ----------------------------------------- |
+| PHP 7.4+   | Lógica de programación del servidor       |
+| HTML5      | Estructura de las páginas web             |
+| CSS3       | Estilos (tamaños de fuente en práctica 4) |
+| Git/GitHub | Control de versiones y entrega            |
 
 ---
+
 ## Referencias
+
 https://www.php.net/docs.php
 https://www.php.net/manual/es/language.control-structures.php
 https://www.w3schools.com/php/
